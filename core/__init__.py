@@ -1,0 +1,3 @@
+"""
+EyeShot AI Core Package
+"""
